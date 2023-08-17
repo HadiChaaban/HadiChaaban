@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently self-studying **Real-Time Rendering**
 
-- 🎥 I post videos on YouTube [www.youtube.com/@HadiCya](https://www.youtube.com/@HadiCya)
+- 🎥 I post videos on YouTube [youtube.com/@HadiCya](https://www.youtube.com/@HadiCya)
 
-- 📝 I write articles on [www.hadicya.dev](https://www.hadicya.dev)
+- 📝 I write articles on [hadicya.dev](https://www.hadicya.dev)
 
 - 💬 Ask me about **Mobile dev, game dev, or my favorite song**
 
 - 📫 How to reach me **chaabanh@umich.edu**
 
-- 📄 Know about my experience [www.linkedin.com/in/hadicya/](https://www.linkedin.com/in/hadicya/)
+- 📄 Know about my experience [linkedin.com/in/hadicya/](https://www.linkedin.com/in/hadicya/)
 
 - ⚡ Fun fact **I love music, art, and movies**
 
