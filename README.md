@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
 <h3 align="center">A software engineer with a passion for creation</h3>
 
-- 🔭 I’m currently working on [Shadow Sudoku](www.github.com/HadiCya/Shadow_Sudoku)
+- 🔭 I’m currently working on [Shadow Sudoku](https://www.github.com/HadiCya/Shadow_Sudoku)
 
 - 🌱 I’m currently self-studying **Real-Time Rendering**
 
-- 🎥 I post videos on YouTube [www.youtube.com/@HadiCya](www.youtube.com/@HadiCya)
+- 🎥 I post videos on YouTube [www.youtube.com/@HadiCya](https://www.youtube.com/@HadiCya)
 
-- 📝 I write articles on [www.hadicya.dev](www.hadicya.dev)
+- 📝 I write articles on [www.hadicya.dev](https://www.hadicya.dev)
 
 - 💬 Ask me about **Mobile dev, game dev, or my favorite song**
 
 - 📫 How to reach me **chaabanh@umich.edu**
 
-- 📄 Know about my experience [www.linkedin.com/in/hadicya/](www.linkedin.com/in/hadicya/)
+- 📄 Know about my experience [www.linkedin.com/in/hadicya/](https://www.linkedin.com/in/hadicya/)
 
 - ⚡ Fun fact **I love music, art, and movies**
 
