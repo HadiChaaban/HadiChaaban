@@ -1,29 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
 <h3 align="center">A software engineer with a passion for creation</h3>
 
-- 🔭 I’m currently working on [Shadow Sudoku](github.com/HadiCya/Shadow_Sudoku)
+- 🔭 I’m currently working on [Shadow Sudoku](www.github.com/HadiCya/Shadow_Sudoku)
 
 - 🌱 I’m currently self-studying **Real-Time Rendering**
 
-- 🎥 I post videos on YouTube [youtube.com/@HadiCya](youtube.com/@HadiCya)
+- 🎥 I post videos on YouTube [www.youtube.com/@HadiCya](www.youtube.com/@HadiCya)
 
-- 📝 I write articles on [hadicya.dev](hadicya.dev)
+- 📝 I write articles on [www.hadicya.dev](www.hadicya.dev)
 
 - 💬 Ask me about **Mobile dev, game dev, or my favorite song**
 
 - 📫 How to reach me **chaabanh@umich.edu**
 
-- 📄 Know about my experience [linkedin.com/in/hadicya/](linkedin.com/in/hadicya/)
+- 📄 Know about my experience [www.linkedin.com/in/hadicya/](www.linkedin.com/in/hadicya/)
 
-- ⚡ Fun fact **I love music, art, movies; creation**
+- ⚡ Fun fact **I love music, art, and movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hadicya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hadicya" height="30" width="40" /></a>
-<a href="https://twitter.com/hadicya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadicya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hadicya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadicya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hadicya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hadicya" height="30" width="40" /></a>
-<a href="/hadicya.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="hadicya.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
