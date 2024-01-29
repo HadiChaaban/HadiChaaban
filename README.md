@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an unnamed mystery game!](https://www.github.com/HadiCya/DoD_23-24)
 
-- 🌱 I’m currently studying **Natural Language Processing and Distributed Systems**
+- 🌱 I’m currently studying **Game Engine Architecture**
 
 - 🎥 I post videos on YouTube [youtube.com/@HadiCya](https://www.youtube.com/@HadiCya)
 
