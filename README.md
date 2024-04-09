@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
 <h3 align="center">A software engineer with a passion for creation</h3>
 
-- 🔭 I’m currently working on a game engine in C++ and SDL2
+- 🔭 I’m currently working on a [game engine in C++ and SDL2](https://github.com/HadiCya/ShadowEngine)
 
 - 🌱 I’m currently studying **Game Engine Architecture**
 
